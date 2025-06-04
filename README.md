@@ -3,8 +3,7 @@
 A very tiny pocket AM radio powered by a 1.5 volt battery.
 
 ## Circuit
-
-Image goes here
+![](img/TA7642_radio_sch.png)
 
 At the core of the circuit is the TA7642 AM demodulator and amplifier IC. The coil and the capacitor form a tank circuit that selects
 the desired frequency to tune into and the signal is demodulated and amplified in the IC. After that, Q1 is behaves as a simple amplifier
