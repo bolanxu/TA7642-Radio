@@ -3,7 +3,7 @@
 ![](img/radio.jpg)  
 ![](img/TA7642_radio_sch.png)
 
-A very tiny pocket AM radio that runs from a single 1.5 V battery. It's a simple, low‑power receiver built around the TA7642 AM demodulator/amplifier IC with a small tuning coil and a coupling transistor to drive headphones. I designed this as a kit and created the PCB in 2021 (a 5th grade project) to learn about radios, basic electronics, and PCB design. More information in the `/docs` folder
+A very tiny pocket AM radio that runs from a single 1.5 V battery. It's a simple, low‑power receiver built around the TA7642 AM demodulator/amplifier IC with a small tuning coil and a coupling transistor to drive headphones. I designed this as a kit and created the PCB in 2021 (a 5th grade project) to learn about radios, basic electronics, and PCB design. More information in the `/docs` folder (The docs were written by me as a 5th grader, don't expect the best english 😅).
 
 ## Features
 - Pocket‑sized AM radio
